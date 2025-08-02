@@ -70,5 +70,8 @@ FAQ
     mouseReport.x = map(xr_val, -3840, 3839, -10, 10);
     mouseReport.y = map(yr_val, -2160, 2159, -10, 10);
 
+4. Does this work on any other Arduino board?
+   No. I may plan to port this over if it gets more interest. But for the time being, assume it only works on the Uno.
+
    
 
